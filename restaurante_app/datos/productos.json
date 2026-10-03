@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Maito de Pescado",
+        "precio": 8.5,
+        "categoria": "Plato Fuerte",
+        "stock": 15
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Chontacuro Asado",
+        "precio": 4.0,
+        "categoria": "Entrada",
+        "stock": 20
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Guayusa Helada",
+        "precio": 1.5,
+        "categoria": "Bebida",
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Ceviche de Camarones",
+        "precio": 12.0,
+        "categoria": "Plato Fuerte",
+        "stock": 10
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Yuca con Queso",
+        "precio": 3.0,
+        "categoria": "Entrada",
+        "stock": 25
+    },
+    {
+        "codigo": "P006",
+        "nombre": "Jugo de Naranja",
+        "precio": 2.0,
+        "categoria": "Bebida",
+        "stock": 40
+    }
+]

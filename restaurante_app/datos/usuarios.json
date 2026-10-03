@@ -1,0 +1,30 @@
+[
+    {
+        "id_usuario": "U001",
+        "username": "admin",
+        "password": "admin123",
+        "nombre": "Administrador del Sistema",
+        "rol": "Administrador"
+    },
+    {
+        "id_usuario": "U002",
+        "username": "gerente",
+        "password": "gerente123",
+        "nombre": "Gerente del Restaurante",
+        "rol": "Empleado"
+    },
+    {
+        "id_usuario": "U003",
+        "username": "mesero",
+        "password": "mesero123",
+        "nombre": "Personal de Atención",
+        "rol": "Empleado"
+    },
+    {
+        "id_usuario": "U004",
+        "username": "cliente1",
+        "password": "cliente123",
+        "nombre": "Carlos Mendoza",
+        "rol": "Cliente"
+    }
+]
